@@ -5,3 +5,4 @@
 <a href="https://github.com/sponsors/alexrios"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
 
 ![](https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif)
+Gopher image by egonelbre
